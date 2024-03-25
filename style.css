@@ -1,0 +1,108 @@
+.name {
+    background-color: brown;
+    color: yellow;
+    padding: 10px;
+}
+
+.paragraph {
+    background-color: aquamarine;
+    color: blue;
+    margin: 100px 0px 50px 100px;
+    text-align: center;
+}
+
+.name-section {
+    background-color: brown;
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    border: 60px, dotted yellow;
+
+}
+
+.style {
+    background-color: brown;
+    color: black;
+
+}
+
+.age-card {
+    border: 6px solid;
+    border-radius: 100%;
+    background-color: red;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.age {
+    background-color: green;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+/* .image-a{
+    height: 1000px;
+    width: 1000px;
+} */
+.image-section img {
+    height: 300px;
+    width: 240px;
+    border-radius:20px ;
+    border:4px solid ;
+    padding: 20px;
+}
+.image-section div {
+  background-color: blueviolet;
+    padding: 20px;
+    border-radius: 15px;
+}
+.image-section div:hover{
+    background-color: brown;
+}
+
+.image-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 70px 80px;
+
+}
+
+.b {
+    color: brown;
+    font-weight: bold;
+}
+
+.cd {
+    background-color: aqua;
+}
+
+.ab {
+    background-color: blue;
+}
+
+.bb {
+    background-color: yellow;
+}
+
+.aa {
+    background-color: goldenrod;
+}
+.btn-design{
+    background-color: yellow;
+    padding: 5px 4px;
+    border-radius: 8px;
+    font-weight: 600;
+    color: gray;
+}
+.btn-design:hover{
+    background-color: blue;
+    padding: 10px 7px;
+    border:2px solid red;
+    color: black;
+
+}
